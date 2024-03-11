@@ -17,7 +17,7 @@ HTML
 CSS
 
 How to Run:
-Clone the repository: git clone https://github.com/your-username/myntra-clone.git
+Clone the repository: git clone https://github.com/AbdulMoazzim/myntra-clone.git
 Open the project in your preferred code editor.
 Run the HTML file of the homepage in a web browser.
 
